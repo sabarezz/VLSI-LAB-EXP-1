@@ -44,6 +44,7 @@ VERILOG CODE:
 ----Type Verilog Code
 
 OUTPUT:
+![HALF ADDER ](https://github.com/sabarezz/VLSI-LAB-EXP-1/assets/165630121/03cb5aaa-1d58-4063-952b-70a724b1398f)
 
 -----Place a Waveform Generated from Xilinx ISE
 
